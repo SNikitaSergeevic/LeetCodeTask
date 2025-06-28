@@ -4,7 +4,7 @@ class ListNode:
         self.val = val
         self.next = next
 
-# TODO: Need optimisation
+# TODO: Need optimization
 
 class Solution:
     def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
