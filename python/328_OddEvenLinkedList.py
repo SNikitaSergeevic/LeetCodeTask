@@ -31,3 +31,23 @@ class Solution:
             res = ListNode(val = left.pop(), next = res)
             
         return res
+    
+# TODO: best way with slow fast method
+class Solution:
+    def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        
+        if not head or not head.next:
+            return head
+        slow = head
+        fast = head.next
+        f_head = fast
+
+        while fast and fast.next:
+            slow.next = fast.next
+            slow = slow.next
+
+            fast.next = slow.next
+            fast = fast.next
+        
+        slow.next = f_head
+        return head
