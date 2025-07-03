@@ -1,6 +1,6 @@
 
 ## Python solutions
-- [199. Binary Tree Right Side View]()
+- [199. Binary Tree Right Side View](https://github.com/SNikitaSergeevic/LeetCodeTask/blob/main/python/199_BinaryTreeRightSideView.py)
 - [236. Lowest Common Ancestor of a Binary Tree](https://github.com/SNikitaSergeevic/LeetCodeTask/blob/main/python/236_LowestCommonAncestorOfABinaryTree.py)
 - [328. Odd Even Linked List](https://github.com/SNikitaSergeevic/LeetCodeTask/blob/main/python/328_OddEvenLinkedList.py)
 - [437. Path Sum III](https://github.com/SNikitaSergeevic/LeetCodeTask/blob/main/python/437_PathSumIII.py)
