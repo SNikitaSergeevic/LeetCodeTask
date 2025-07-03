@@ -1,5 +1,6 @@
 
 ## Python solutions
+- [236. Lowest Common Ancestor of a Binary Tree]()
 - [328. Odd Even Linked List](https://github.com/SNikitaSergeevic/LeetCodeTask/blob/main/python/328_OddEvenLinkedList.py)
 - [437. Path Sum III](https://github.com/SNikitaSergeevic/LeetCodeTask/blob/main/python/437_PathSumIII.py)
 - [649. Dota2 Senate](https://github.com/SNikitaSergeevic/LeetCodeTask/blob/main/python/649_Dota2Senate.py)
