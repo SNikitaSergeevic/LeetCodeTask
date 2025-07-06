@@ -5,6 +5,7 @@
 - [236. Lowest Common Ancestor of a Binary Tree](https://github.com/SNikitaSergeevic/LeetCodeTask/blob/main/python/236_LowestCommonAncestorOfABinaryTree.py)
 - [328. Odd Even Linked List](https://github.com/SNikitaSergeevic/LeetCodeTask/blob/main/python/328_OddEvenLinkedList.py)
 - [437. Path Sum III](https://github.com/SNikitaSergeevic/LeetCodeTask/blob/main/python/437_PathSumIII.py)
+- [450. Delete Node in a BST](python/450_DeleteNodeInABST.py)
 - [649. Dota2 Senate](https://github.com/SNikitaSergeevic/LeetCodeTask/blob/main/python/649_Dota2Senate.py)
 - [872. Leaf-Similar Trees](https://github.com/SNikitaSergeevic/LeetCodeTask/blob/main/python/872_LeafSimilarTrees.py)
 - [1161. Maximum Level Sum of a Binary Tree](https://github.com/SNikitaSergeevic/LeetCodeTask/blob/main/python/1161_MaximumLevelSumOfABinaryTree.py)
