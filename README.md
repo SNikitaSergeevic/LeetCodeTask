@@ -7,6 +7,7 @@
 - [437. Path Sum III](python/437_PathSumIII.py)
 - [450. Delete Node in a BST](python/450_DeleteNodeInABST.py)
 - [649. Dota2 Senate](python/649_Dota2Senate.py)
+- [841. Keys and Rooms](python/841_KeysAndRooms.py)
 - [872. Leaf-Similar Trees](python/872_LeafSimilarTrees.py)
 - [1161. Maximum Level Sum of a Binary Tree](python/1161_MaximumLevelSumOfABinaryTree.py)
 - [1372. Longest ZigZag Path in a Binary Tree](python/1372_LongestZigZagPathInABinaryTree.py)
